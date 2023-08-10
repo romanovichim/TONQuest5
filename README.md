@@ -8,7 +8,7 @@
 
 ---
 
-# Checkpoint 0:  Install 
+# Checkpoint 0: 📦 Install 📚
 
 Required: 
 * [Git](https://git-scm.com/downloads)
@@ -26,7 +26,6 @@ yarn install
 yarn chain
 ```
 ---
-
 
 # Checkpoint 1: Manifest and Button
 
@@ -54,7 +53,7 @@ Enter the link in the browser.
 
 ---
 
-# Checkpoint 2: Connect/Disconnect
+# Checkpoint 2:  🔑 Connect/Disconnect 🔓
 
 After loading you must see:
 	
@@ -74,7 +73,7 @@ Disconnect and move on to the next checkpoint.
 
 ---
 
-# Checkpoint 3: Counter Contract
+# Checkpoint 3: 🤖 Counter Contract 📜
 
 In this quest, we will use this example of a [smart contract](https://github.com/ton-org/blueprint/tree/5b234d83fae6e73234ed32a38cdf0b1558f7cc93/example). The contract, when receiving a message, increments the counter value, which is stored in register c4 of the contract. There is also a Get method that returns the value of the counter.
 
@@ -90,7 +89,7 @@ The only question left is how to call Get method. We will use https://testnet.to
 
 ---
 
-# Checkpoint 4: Add ui
+# Checkpoint 4: 💻 Add ui 💻
 
 Let's use the wrapper of our contract, comment out the piece of code with the button from the previous step.
 
@@ -102,7 +101,7 @@ And uncomment the code below - this will be primitive ui:
 
 ---
 
-# Checkpoint 5: Send transaction and Check result in 
+# Checkpoint 5: 📫 Send transaction and Check result in  📮
 
 Launch the application and follow the link:
 
@@ -122,7 +121,11 @@ Confirm the transaction in the wallet and wait for the counter to increase:
 
 # ⚔️ Side Quests
 
-TBD
+Quick results are great, but to play longer, enjoy the ecosystem, I suggest you the following tutorials:
+- Dive deep into the React ui [login button](https://github.com/romanovichim/TonFunClessons_Eng/blob/main/lessons/tonconnect/button.md)
+- Dive deep into the React ui [send transaction](https://github.com/romanovichim/TonFunClessons_Eng/blob/main/lessons/tonconnect/sendtx.md)
+
+
 
 
 
