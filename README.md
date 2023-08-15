@@ -4,7 +4,7 @@
 
 🎫 Let's take an open source contract and build a simple website that will allow you to log in, send a transaction to the contract and see the result of the transaction by requesting the Get method.
 
-📺 full-fledged web 3 application with a backend in the form of a smart contract.
+📺 Get a full-fledged web 3 application with a backend in the form of a smart contract.
 
 💬 Meet other builders working in TON and get help in the [official dev chat](https://t.me/tondev_eng) or [TON learn tg](https://t.me/ton_learn)
 
