@@ -127,6 +127,12 @@ Quick results are great, but to play longer, enjoy the ecosystem, I suggest you 
 - Dive deep into the React ui [send transaction](https://github.com/romanovichim/TonFunClessons_Eng/blob/main/lessons/tonconnect/sendtx.md)
 
 
+# 🏆 Reward 
 
+Congratulations on successfully completing this challenge! Before we conclude, let's take a quick look at the exciting reward awaiting you from the <a target="_blank" href="https://getgems.io/collection/EQBDUREt8ZScVPe5vkuVxLRU5Juk38WBLnFJop2q4fRJQ_aQ">"TON Speedrun"</a> collection:
 
+<img style="border-radius: 10pt; margin: 25pt auto; display: block;" width="40%" src="https://ton-devrel.s3.eu-central-1.amazonaws.com/tonspeedrun/3/image.jpeg">
 
+Ready to claim your reward? Simply scan the QR code below or click <a href="https://app.tonkeeper.com/transfer/EQCZ52LU4PsK71IVjn4Ur599R4ZdsnT9ToAEqysot628BEdo?bin=te6cckEBAQEABgAACAJuM5RvQZJe&amount=50000000">here</a>:
+
+<img src="https://i.imgur.com/dTNKnOS.png" alt="QR-code" style="width: 30%;"/>
